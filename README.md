@@ -4,9 +4,9 @@ Welcome to my project repository! This folder contains a variety of projects tha
 
 Thank you for visiting!
 
-# Dashboard Showcase
+## Dashboard Showcase
 
 Check out my **Dashboard Showcase** folder where I primarily use **PowerBI** for visualizations. In the future, other tools may also be included as I expand my projects
 
 You can access the folder here:
-- [Dashboard Showcase Folder](./dashboard-showcase)
+- [Dashboard Showcase Folder]([./dashboard-showcase](https://github.com/hoangzv199/Projects/tree/main/Dashboard%20Showcase))
