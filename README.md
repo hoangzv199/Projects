@@ -9,4 +9,4 @@ Thank you for visiting!
 Check out my **Dashboard Showcase** folder where I primarily use **PowerBI** for visualizations. In the future, other tools may also be included as I expand my projects
 
 You can access the folder here:
-- [Dashboard Showcase Folder](https://github.com/hoangzv199/Projects/tree/main/Dashboard%20Showcase)
+- [Dashboard Showcase Folder](https://github.com/hoangzv199/Projects/tree/main/DASHBOARD%20SHOWCASE)
